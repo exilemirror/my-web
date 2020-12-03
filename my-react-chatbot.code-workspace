@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../GovTech/repos/mol-va-vica-iac"
 		}
 	],
 	"settings": {}
