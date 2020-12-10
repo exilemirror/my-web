@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: mychat
-          image: exilemirror/ingress-test
+          image: exilemirror/ingress-test:version2
           ports:
             - containerPort: 5000
